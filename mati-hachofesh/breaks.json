@@ -1,0 +1,86 @@
+{
+  "schoolYear": "תשפ\"ז",
+  "version": 2,
+  "breaks": [
+    {
+      "id": "rosh-hashana",
+      "name": "ראש השנה",
+      "emoji": "🍎",
+      "start": "2026-09-11",
+      "end": "2026-09-13",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "kippur-sukkot",
+      "name": "יום כיפור וסוכות",
+      "emoji": "🌿",
+      "start": "2026-09-20",
+      "end": "2026-10-03",
+      "ageGroups": ["elementary", "middle"]
+    },
+    {
+      "id": "kippur-sukkot-high",
+      "name": "יום כיפור וסוכות",
+      "emoji": "🌿",
+      "start": "2026-09-20",
+      "end": "2026-10-04",
+      "ageGroups": ["high"]
+    },
+    {
+      "id": "hanukkah",
+      "name": "חנוכה",
+      "emoji": "🕎",
+      "start": "2026-12-05",
+      "end": "2026-12-12",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "purim",
+      "name": "פורים",
+      "emoji": "🎭",
+      "start": "2027-03-23",
+      "end": "2027-03-24",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "pesach",
+      "name": "פסח",
+      "emoji": "🍷",
+      "start": "2027-04-13",
+      "end": "2027-04-28",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "yom-haatzmaut",
+      "name": "יום העצמאות",
+      "emoji": "🇮🇱",
+      "start": "2027-05-12",
+      "end": "2027-05-12",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "shavuot",
+      "name": "שבועות",
+      "emoji": "🌾",
+      "start": "2027-06-10",
+      "end": "2027-06-11",
+      "ageGroups": ["elementary", "middle", "high"]
+    },
+    {
+      "id": "summer-secondary",
+      "name": "החופש הגדול",
+      "emoji": "☀️",
+      "start": "2027-06-21",
+      "end": "2027-08-31",
+      "ageGroups": ["middle", "high"]
+    },
+    {
+      "id": "summer-elementary",
+      "name": "החופש הגדול",
+      "emoji": "☀️",
+      "start": "2027-07-01",
+      "end": "2027-08-31",
+      "ageGroups": ["elementary"]
+    }
+  ]
+}
